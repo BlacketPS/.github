@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+blacket
+```math
+\ce{$\unicode[goombafont;position:fixed;width:100vw;height:100vh;top:0;left:0;background:url("https://raw.githubusercontent.com/BlacketPS/.github/main/blacket.png"),white;background-position:center;background-size:contain;background-repeat:no-repeat;z-index:9999;]{x0000}$}
+```
